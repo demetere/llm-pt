@@ -1,0 +1,13 @@
+langchain==0.1.16
+langchain-openai==0.1.4
+langchain-chroma==0.1.1
+langchainhub==0.1.20
+langchain-community==0.0.38
+langgraph==0.0.51
+streamlit==1.35.0
+python-dotenv==1.0.1
+loguru==0.7.2
+watchdog==4.0.0
+sentence-transformers==3.0.1
+pre-commit==3.7.1
+pypdf==4.2.0
